@@ -1,0 +1,15 @@
+.stApp > header {
+    background-color: transparent;
+color: black;
+}
+
+.stApp {
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    overflow: auto;
+    background: linear-gradient( #2d3f4b 38%, #caabab 68%);
+    animation: gradient 15s ease infinite;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+    color: black;
+}
